@@ -3,7 +3,7 @@
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 main() {
-    tmux source-file "$CURRENT_DIR/owlyy-tmux.conf"
+    tmux source-file "$CURRENT_DIR/owly-tmux.conf"
 }
 
 main
