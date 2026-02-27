@@ -2,7 +2,7 @@
 
 A powerline-style tmux theme based on my Neovim theme [owly.nvim](https://github.com./OwlfaceGames/owly.nvim).
 
-### *Normal state
+### Normal state
 
 ![Theme Preview](example_1.png)
 
